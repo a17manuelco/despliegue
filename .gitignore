@@ -1,0 +1,5 @@
+texto.txt
+*.txt
+!ayuda.txt
+build/
+documentos/*.txt
